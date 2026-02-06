@@ -23,45 +23,48 @@
 
   <br/>
 
- <h3>🏅 Stats</h3>
+  <h3>🏅 Stats</h3>
 
-<table style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr>
-    <td style="border: none; padding-right: 12px;">
-      <img
-        src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3001"
-        height="170"
-      />
-    </td>
+  <p>
+    <img
+      src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3001"
+      height="170"
+    />
+  </p>
 
-    <td style="border: none;">
-      <img
-        src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3001"
-        height="170"
-      />
-    </td>
-  </tr>
-</table>
-
-  <h3>✍️ Velog & Solved.ac</h3>
-
-<table style="border-collapse: collapse; border: none; margin: 0 auto;">
-  <tr>
-    <td style="border: none; padding-right: 12px;">
-      <a href="https://velog.io/@jka4538">
+  <table>
+    <tr>
+      <td>
         <img
-          src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5"
+          src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3001"
           height="170"
         />
-      </a>
-    </td>
+      </td>
+      <td>
+        <img
+          src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
 
-    <td style="border: none;">
+  <br/>
+
+  <h3>✍️ Velog</h3>
+
+  <p>
+    <a href="https://velog.io/@jka4538">
       <img
-        src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
-        height="170"
+        src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5"
       />
-    </td>
-  </tr>
-</table>
+    </a>
+  </p>
+
+  <p>
+    <a href="https://velog.io/@jka4538">
+      <img src="https://img.shields.io/badge/Velog-Blog-e57a72?style=for-the-badge&logo=Vimeo&logoColor=white"/>
+    </a>
+  </p>
+
 </div>
