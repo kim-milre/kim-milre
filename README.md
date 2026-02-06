@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=14,18,24" />
 </div>
 
 <h2>🛠️ Tech Stacks</h2>
@@ -21,28 +21,14 @@
 <h2>🏅 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kim-milre&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-milre&layout=compact&theme=default" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&theme=rose_pine_dawn&cache_seconds=3600&v=2" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&theme=rose_pine_dawn&cache_seconds=3600&v=2" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="http://mazandi.herokuapp.com/api?handle=jka4538&theme=warm"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-  <a href="https://github.com/kim-milre">
-    <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&cache_seconds=3600&v=1" />
-    <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&cache_seconds=3600&v=1" />
-
-  </a>
-
   <a href="https://velog.io/@jka4538">
     <img src="https://velog-readme-stats.vercel.app/api?name=jka4538" />
   </a>
-
 </div>
