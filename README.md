@@ -15,6 +15,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=kim-milre&custom_title=kim-milre's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
-      [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kim-milre)](https://velog.io/@jka4538/SIGGRAPH-논문-세미나-구조색의-실시간-렌더링을-위한-Generic-Approach)
+        [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kim-milre)]((https://velog.io/@jka4538/SIGGRAPH-논문-세미나-구조색의-실시간-렌더링을-위한-Generic-Approach)
     </div>
     
