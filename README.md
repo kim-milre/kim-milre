@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=gradient&amp;customColorList=12,18,23" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=0:e57a72,50:f7a3a7,100:ffd1cc" />
 </div>
 
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=Netlify&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-94A3B8?style=for-the-badge&amp;logo=OpenCV&amp;logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&amp;logo=OpenGL&amp;logoColor=white">
 </div>
