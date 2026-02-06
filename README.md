@@ -24,32 +24,27 @@
   <br/>
   
   <h3>🏅 Stats</h3>
-  
 
-  <table align="center" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3002"
-          height="170"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3002"
-          height="170"
-        />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <p align="center">
-    <img
-      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"height="170"
-    />
-  </p>
+<div align="center">
+  <img
+    src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&show_icons=true&hide_border=true&cache_seconds=86400&v=5001"
+    height="170"
+  />
+
+  <img
+    src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&hide_border=true&cache_seconds=86400&v=5001"
+    height="170"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
+    height="170"
+  />
+</div>
 
   <br/>
 
