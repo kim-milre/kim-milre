@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=MongoDB&amp;logoColor=white" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=Netlify&amp;logoColor=white" />
   </p>
+  
 
   <h3>🛠 Tools 🛠</h3>
   <p>
@@ -28,6 +29,7 @@
   <p>
     <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&amp;bg_color=ffffff&amp;title_color=e57a72&amp;text_color=777777&amp;icon_color=f7a3a7&amp;border_color=e5e5e5&amp;show_icons=true&amp;cache_seconds=86400&amp;v=3001" />
   </p>
+
 
   <p>
     <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=e57a72&amp;text_color=777777&amp;border_color=e5e5e5&amp;cache_seconds=86400&amp;v=3001" />
