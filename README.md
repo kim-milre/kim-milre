@@ -30,8 +30,18 @@
 
 <br/>
 
+<img src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm" />
+
+<h2>✍️ Velog</h2>
+
 <div align="center">
   <a href="https://velog.io/@jka4538">
-    <img src="https://velog-readme-stats.vercel.app/api?name=jka4538" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5" />
   </a>
 </div>
+
+<p align="center">
+  <a href="https://velog.io/@jka4538">
+    <img src="https://img.shields.io/badge/Velog-Blog-e57a72?style=for-the-badge&logo=Vimeo&logoColor=white"/>
+  </a>
+</p>
