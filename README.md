@@ -36,8 +36,7 @@
     />
   
     <img
-      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
-      height="170"
+      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm" height="170"
     />
   </div>
 
