@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=gradient&amp;customColorList=14,18,24&amp;text=Minchae%20Kim&amp;fontColor=257a72&amp;fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=gradient&amp;customColorList=12,18,23" />
 </div>
 
 
@@ -23,9 +23,9 @@
 <h2>🏅 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&amp;bg_color=ffffff&amp;title_color=257a72&amp;text_color=777777&amp;icon_color=f7a3a7&amp;border_color=e5e5e5&amp;show_icons=true&amp;cache_seconds=86400&amp;v=3001" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&amp;bg_color=ffffff&amp;title_color=e57a72&amp;text_color=777777&amp;icon_color=f7a3a7&amp;border_color=e5e5e5&amp;show_icons=true&amp;cache_seconds=86400&amp;v=3001" />
 
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=257a72&amp;text_color=777777&amp;border_color=e5e5e5&amp;cache_seconds=86400&amp;v=3001" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=e57a72&amp;text_color=777777&amp;border_color=e5e5e5&amp;cache_seconds=86400&amp;v=3001" />
 </div>
 
 <br/>
