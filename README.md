@@ -21,8 +21,9 @@
 <h2>🏅 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&amp;bg_color=ffffff&amp;title_color=9b4f6c&amp;text_color=6f3b52&amp;icon_color=c36a87&amp;border_color=f2c1d1&amp;show_icons=true&amp;cache_seconds=86400&amp;v=1001" />
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=9b4f6c&amp;text_color=6f3b52&amp;border_color=f2c1d1&amp;cache_seconds=86400&amp;v=1001" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&amp;bg_color=ffffff&amp;title_color=ff5c55&amp;text_color=777777&amp;icon_color=f7a3a7&amp;border_color=e5e5e5&amp;show_icons=true&amp;cache_seconds=86400&amp;v=2001" />
+
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&amp;layout=compact&amp;bg_color=ffffff&amp;title_color=ff5c55&amp;text_color=777777&amp;border_color=e5e5e5&amp;cache_seconds=86400&amp;v=2001" />
 </div>
 
 <br/>
