@@ -26,20 +26,28 @@
   <h3>🏅 Stats</h3>
 
   <p>
-    <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3001" />
+    <img
+      src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3001"
+      height="170"
+    />
   </p>
-  
-  <div align="center">
-    <img
-      src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3001"
-      height="170"
-    />
-  
-    <img
-      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
-      height="170"
-    />
-  </div>
+
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3001"
+          height="170"
+        />
+      </td>
+      <td>
+        <img
+          src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
+          height="170"
+        />
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
@@ -47,7 +55,9 @@
 
   <p>
     <a href="https://velog.io/@jka4538">
-      <img src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5" />
+      <img
+        src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5"
+      />
     </a>
   </p>
 
