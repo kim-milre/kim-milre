@@ -28,7 +28,7 @@
   <p>
     <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&bg_color=ffffff&title_color=e57a72&text_color=777777&icon_color=f7a3a7&border_color=e5e5e5&show_icons=true&cache_seconds=86400&v=3001" />
   </p>
-
+  
   <div align="center">
     <img
       src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5&cache_seconds=86400&v=3001"
@@ -36,7 +36,8 @@
     />
   
     <img
-      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm" height="170"
+      src="https://web-production-55dfb.up.railway.app/api?handle=jka4538&theme=warm"
+      height="170"
     />
   </div>
 
