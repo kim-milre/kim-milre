@@ -21,9 +21,15 @@
 <h2>🏅 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&theme=rose_pine_dawn&cache_seconds=1800&v=999" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre
+&bg_color=ffffff
+&title_color=9b4f6c
+&text_color=6f3b52
+&icon_color=c36a87
+&border_color=f2c1d1
+&show_icons=true" />
+
   <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&theme=rose_pine_dawn&cache_seconds=1800&v=999" />
-/>
 </div>
 
 <br/>
