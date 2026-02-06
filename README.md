@@ -21,8 +21,9 @@
 <h2>🏅 Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&theme=rose_pine_dawn&cache_seconds=3600&v=2" />
-  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&theme=rose_pine_dawn&cache_seconds=3600&v=2" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&theme=rose_pine_dawn&cache_seconds=1800&v=999" />
+  <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&theme=rose_pine_dawn&cache_seconds=1800&v=999" />
+/>
 </div>
 
 <br/>
