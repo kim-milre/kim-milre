@@ -36,7 +36,9 @@
 <div align="center">
 
   <a href="https://github.com/kim-milre">
-    <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true" />
+    <img src="https://github-readme-stats-swart-six-86.vercel.app/api?username=kim-milre&show_icons=true&cache_seconds=3600&v=1" />
+    <img src="https://github-readme-stats-swart-six-86.vercel.app/api/top-langs/?username=kim-milre&layout=compact&cache_seconds=3600&v=1" />
+
   </a>
 
   <a href="https://velog.io/@jka4538">
