@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://velog.io/@jka4538">
-    <img src="https://velog-readme-stats.vercel.app/api?name=kim-milre" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=jka4538" />
   </a>
 
 </div>
