@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3>✨ Tech Stack ✨</h3>
+<h3>:sparkles: Tech Stack :sparkles:</h3>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
@@ -48,24 +48,16 @@
     />
   </p>
 
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="500" />
+
+<br/><br/><br/>
+<h3>✍️ Velog</h3>
 <br/>
 
-![GitHub 3D Contribution](./profile-3d-contrib/profile-season-animate.svg)
+<p align="center"><a href="https://velog.io/@jka4538"><img src="https://velog-readme-stats.vercel.app/api?name=jka4538&tag=ComputerGraphics" width="400" /></a><a href="https://velog.io/@jka4538"><img src="https://velog-readme-stats.vercel.app/api/list?name=jka4538" width="325" /></a></p>
 
-<h3>✍️ Velog</h3>
-
-<p>
 <a href="https://velog.io/@jka4538">
- <img
-   src="https://velog-readme-stats.vercel.app/api?name=jka4538&bg_color=ffffff&title_color=e57a72&text_color=777777&border_color=e5e5e5"
- />
-</a>
-</p>
-
-<p>
-<a href="https://velog.io/@jka4538">
- <img src="https://img.shields.io/badge/Velog-Blog-e57a72?style=for-the-badge&logo=Vimeo&logoColor=white"/>
-</a>
-</p>
+     <img src="https://img.shields.io/badge/Velog-Blog-e57a72?style=for-the-badge&logo=Vimeo&logoColor=white"/>
 
 </div>
